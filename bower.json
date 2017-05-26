@@ -1,0 +1,26 @@
+{
+  "name": "ce-polyfiller",
+  "homepage": "https://github.com/christianezeani/ce-polyfiller.git",
+  "authors": [
+    "Christian Ezeani <christian.ezeani@gmail.com>"
+  ],
+  "description": "A tool to provide cross browser support for major CSS3 and JavaScript functionalities",
+  "main": "",
+  "keywords": [
+    "polyfiller",
+    "polyfill",
+    "css3",
+    "javascript",
+    "cross",
+    "browser",
+    "support"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
