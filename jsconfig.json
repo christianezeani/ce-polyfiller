@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "dist/js",
+        "outFile": "ce-polyfiller.js"
+    },
+    "compileOnSave": true,
+    "include": [
+        "src/js"
+    ]
+}
